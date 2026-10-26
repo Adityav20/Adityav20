@@ -26,7 +26,7 @@ I am a master's student in Computer Science, specializing in applied AI, and a h
 | Project | What I built / explored | Tools |
 | --- | --- | --- |
 | **[VocabForge — German vocabulary extractor](https://github.com/Adityav20/vocabforge-cefr-german)** | Extracts German vocabulary from documents, organizes words by CEFR level, and generates downloadable study material. **Public GitHub repository.** | Python, FastAPI, spaCy, NLP |
-| **Archive Query Log — master's research** | Analyzed search-result URLs in a **1.8 TB** research dataset, with provider-level sampling and query-parameter analysis. | Python, Elasticsearch, Ray, Pandas |
+| **Archive Query Log** | Analyzed search-result URLs in a **1.8 TB** research dataset, with provider-level sampling and query-parameter analysis. | Python, Elasticsearch, Ray, Pandas |
 | **Microscopy object detection** | Trained and applied YOLOv8 to recognize cement materials and structural features in microscopy images. | Python, YOLOv8, Computer Vision |
 | **Language models from scratch** | Implemented and compared N-grams, feed-forward language models, LSTMs/GRUs, and tokenization strategies. | PyTorch, NLP, Tokenizers |
 | **Generative AI storytelling** | Prototyped multi-user AI-generated storytelling with character creation and real-time interactions. | FastAPI, LLM APIs, WebSockets |

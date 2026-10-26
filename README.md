@@ -1,46 +1,53 @@
-<!-- GitHub profile README for github.com/Adityav20 -->
-<div align="center">
-  <img src="./assets/einstein-equation.svg" width="660" alt="Einstein field equation: spacetime curvature and matter" />
+<!-- Original GitHub profile design for Adityav20: From Data to Deployed AI -->
+<div align=“center”>
+<img src=“./assets/ai-systems-banner.svg” width=“100%” alt=“Aditya Vikram — AI systems, research and engineering” title=“Aditya Vikram | From Data to Deployed AI” />
 
-  <h1>Hi, I'm Aditya Vikram 👋</h1>
-  <p><strong>M.Sc. Computer Science (AI) · Machine Learning · LLMs · Python Engineering</strong></p>
-  <p>Turning research ideas into practical, end-to-end AI applications.</p>
+<p><strong>M.Sc. Computer Science (AI) · Bauhaus-Universität Weimar</strong></p>
+<p>Building AI systems that move beyond experiments: from messy data to models, APIs, and applications.</p>
 
-  <a href="https://github.com/Adityav20">
-    <img src="https://komarev.com/ghpvc/?username=Adityav20&amp;label=Profile%20Views&amp;color=0969da&amp;style=flat-square" alt="GitHub profile views" />
-  </a>
-  <a href="https://github.com/Adityav20?tab=followers">
-    <img src="https://img.shields.io/github/followers/Adityav20?label=Followers&amp;style=flat-square&amp;color=0969da&amp;logo=github" alt="GitHub followers" />
-  </a>
-
-  <p>
-    <a href="https://www.linkedin.com/in/aditya-vikram-b52235193/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Adityav20?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-Repositories-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Weimar%2C%20Germany-4b5563?style=flat-square" alt="Weimar, Germany" />
-  </p>
+<a href=“https://github.com/Adityav20”><img src=“https://komarev.com/ghpvc/?username=Adityav20&amp;label=PROFILE VIEWS&amp;color=27b89c&amp;style=flat-square” alt=“Profile views” /></a>
+<a href=“https://github.com/Adityav20?tab=followers”><img src=“https://img.shields.io/github/followers/Adityav20?label=FOLLOWERS&amp;style=flat-square&amp;color=8063d6&amp;logo=github” alt=“Followers” /></a>
+<a href=“https://www.linkedin.com/in/aditya-vikram-b52235193/”><img src=“https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white” alt=“LinkedIn profile” /></a>
+<a href=“https://github.com/Adityav20?tab=repositories”><img src=“https://img.shields.io/badge/EXPLORE-MY WORK-22334F?style=flat-square&amp;logo=github&amp;logoColor=white” alt=“Explore my repositories” /></a>
 </div>
 
-👨‍💻 What I work on
-- LLMs & generative AI: language models, RAG systems, agents, and API-driven applications.
-- Computer vision: object detection and microscopy image analysis with deep learning.
-- Data engineering & research: large-scale web data processing with Python, Elasticsearch, and Ray.
-- Backend & automation: FastAPI, Python, WebSockets, and workflow automation.
-🚀 Selected work
-- VocabForge — German CEFR Vocabulary Extractor — An NLP-powered web application that extracts structured German vocabulary from PDF, DOCX, and PPTX files, with CEFR-based filtering and downloadable exports.
-- Language models from scratch — Experiments with N-grams, feed-forward networks, LSTMs, GRUs, and tokenization methods.
-- Computer vision for microscopy — Deep-learning-based detection of materials and structural features in microscopy imagery.
-📊 GitHub activity
-<div align="center">
-  <img height="185" src="https://streak-stats.demolab.com?user=Adityav20&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=5" alt="Aditya's GitHub contribution streak" />
-  <img height="185" src="https://github-stats-extended.vercel.app/api?username=Adityav20&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false" alt="Aditya's GitHub stats" />
+About me
+I am a master’s student in Computer Science, specializing in applied AI, and a hands-on developer interested in the entire ML lifecycle: data preparation → experimentation → reliable software.
+
+LLM applications: language models, RAG, agents, NLP, and AI-enabled automation.
+Computer vision: deep learning for object detection and microscopy image analysis.
+Large-scale data: Python pipelines, Elasticsearch, Ray, and research datasets.
+Production-facing code: FastAPI services, integrations, real-time apps, and developer tooling.
+Based in: Weimar, Germany · Open to: Werkstudent / internship opportunities in AI, ML, and Python development.
+Selected work
+MD
+CSV
+↔ Expand
+Full
+VocabForge — German vocabulary extractor	Extracts German vocabulary from documents, organizes words by CEFR level, and generates downloadable study material. Public GitHub repository.	Python, FastAPI, spaCy, NLP
+Archive Query Log — master’s research	Analyzed search-result URLs in a 1.8 TB research dataset, with provider-level sampling and query-parameter analysis.	Python, Elasticsearch, Ray, Pandas
+Microscopy object detection	Trained and applied YOLOv8 to recognize cement materials and structural features in microscopy images.	Python, YOLOv8, Computer Vision
+Language models from scratch	Implemented and compared N-grams, feed-forward language models, LSTMs/GRUs, and tokenization strategies.	PyTorch, NLP, Tokenizers
+Generative AI storytelling	Prototyped multi-user AI-generated storytelling with character creation and real-time interactions.	FastAPI, LLM APIs, WebSockets
+Research and university projects are described here even where their source code is not public.
+
+Engineering toolbox
+Languages & backend: Python · SQL · FastAPI · Flask · JavaScript · WebSockets
+Machine learning: PyTorch · TensorFlow · Scikit-learn · Hugging Face · YOLOv8
+LLM workflows: RAG · LangChain · Ollama · OpenAI API · n8n
+Data & infrastructure: Pandas · NumPy · Elasticsearch · Ray · Docker · Git
+
+GitHub activity
+<div align=“center”>
+<img height=“170” src=“https://github-readme-stats.vercel.app/api?username=Adityav20&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true” alt=“Adityav20 GitHub activity statistics” />
+<img height=“170” src=“https://streak-stats.demolab.com?user=Adityav20&amp;theme=tokyonight&amp;hide_border=true” alt=“Adityav20 GitHub contribution streak” />
 </div>
 
-<div align="center">
-  <img width="625" src="./assets/spacetime-earth.gif" alt="Animated stylized Earth bending a spacetime grid" />
+How I think about building AI
+<div align=“center”>
+<img src=“./assets/ai-delivery-loop.gif” width=“100%” alt=“Animated AI delivery pipeline linking data, intelligence, and applications” title=“The AI Delivery Loop — From Data to Models to Applications” />
 </div>
 
-<!-- The statistics cards rely on third-party services and may be temporarily unavailable. -->
+<p align=“center”><em>Research. Prototype. Validate. Integrate. Improve.</em></p>
+
+<!-- GitHub’s image hover title is browser-dependent. Statistics require external services. -->

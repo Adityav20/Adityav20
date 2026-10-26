@@ -44,7 +44,7 @@ I am a master's student in Computer Science, specializing in applied AI, and a h
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityav20&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="Adityav20 GitHub activity statistics" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Adityav20&amp;theme=tokyonight&amp;hide_border=true" alt="Adityav20 GitHub contribution streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Adityav20&amp;theme=tokyonight&amp;hide_border=true&amp;starting_year=2025" alt="GitHub contributions since January 2025" />
 </div>
 
 ## How I think about building AI
